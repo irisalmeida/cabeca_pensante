@@ -1,4 +1,4 @@
 # cabeca_pensante
 
 
-link: https://www.youtube.com/watch?v=VJhRVNGIi5U 
+link para conferir o Pitch: https://www.youtube.com/watch?v=VJhRVNGIi5U 
