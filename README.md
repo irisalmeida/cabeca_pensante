@@ -4,7 +4,7 @@ O protótipo do aplicativo "Cabeça Pensante" foi desenvolvido durante a Oficina
 
 • 3º lugar na Oficina de Projetos InSocialTech.
 
-"O ![InSocialtec](https://cct.ufcg.edu.br/noticias/projeto-multidisciplinar-insocialtec-acontece-na-proxima-semana-inscreva-se/) é um projeto coordenado pelo Virtus/UFCG e tem como objetivo divulgar conhecimentos nas áreas de tecnologia, empreendedorismo e inovação. Conheça mais sobre o projeto ![assistindo ao vídeo](https://www.youtube.com/watch?v=m1PRZV_DBLU)."
+"O [InSocialtec](https://cct.ufcg.edu.br/noticias/projeto-multidisciplinar-insocialtec-acontece-na-proxima-semana-inscreva-se/) é um projeto coordenado pelo Virtus/UFCG e tem como objetivo divulgar conhecimentos nas áreas de tecnologia, empreendedorismo e inovação. Conheça mais sobre o projeto [assistindo ao vídeo](https://www.youtube.com/watch?v=m1PRZV_DBLU)."
 
 Link para conferir o Pitch: https://www.youtube.com/watch?v=VJhRVNGIi5U 
 
