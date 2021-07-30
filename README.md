@@ -5,5 +5,6 @@ Link para conferir o Pitch: https://www.youtube.com/watch?v=VJhRVNGIi5U
 
 Link do Figma: https://www.figma.com/file/4OVEfIOHNIrTCmVANGCFJP/Cabe%C3%A7a-Pensante?node-id=41%3A1523
 
-![Design sem nome (15)](https://user-images.githubusercontent.com/62727312/127656414-29cb8ca8-0811-44df-9ccd-85691c4b7934.png)
+![Design sem nome (16)](https://user-images.githubusercontent.com/62727312/127656542-174cc4f1-8524-471b-868a-4397c8396193.png)
+
 
