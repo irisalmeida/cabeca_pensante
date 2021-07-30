@@ -6,7 +6,7 @@ O aplicativo Cabeça Pensante tem como objetivo desenvolver o pensamento computa
 
 "O [InSocialtec](https://sites.google.com/view/oficinadeprojetosist/in%C3%ADcio?authuser=0) é um projeto coordenado pelo Virtus/UFCG e tem como objetivo divulgar conhecimentos nas áreas de tecnologia, empreendedorismo e inovação."
 
-Link do projeto: https://sites.google.com/view/oficinadeprojetosist/equipes/equipe-i?authuser=0
+Link do projeto: https://sites.google.com/view/oficinadeprojetosist/equipes/equipe-i?authuser=0#h.c07uyzfixdn8
 
 Link para ler meu depoimento: https://sites.google.com/view/oficinadeprojetosist/depoimentos?authuser=0#h.y1s3umjjx831
 
