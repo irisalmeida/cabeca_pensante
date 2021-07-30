@@ -1,5 +1,9 @@
 # cabeca_pensante
 
+O protótipo do aplicativo "Cabeça Pensante" foi desenvolvido durante a Oficina de Projetos InSocialTech(promovida pelo Virtus-UFCG), por meio de conhecimentos nas áreas de computação, design e administração.Nesse sentido, o objetivo do projeto consiste em estimular o desenvolvimento das habilidades do Pensamento Computacional em crianças e adolescentes.
+
+• 3º lugar na Oficina de Projetos InSocialTech.
+
 
 Link para conferir o Pitch: https://www.youtube.com/watch?v=VJhRVNGIi5U 
 
